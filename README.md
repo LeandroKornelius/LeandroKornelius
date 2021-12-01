@@ -1,7 +1,7 @@
 ## Hello world, I am Leandro Kornelius 👋
 
 - ✉ Contact me through: leobelko@gmail.com
-- 📓 Currently learning Full-Stack in Codecademy
+- 📚Currently learning Full-Stack in Codecademy
 - 💻 In the process to become a Developer
 
 ##
