@@ -6,9 +6,9 @@
 
 ##
 
+- 📈 My Github stats:
 <div>
   <a href="https://github.com/K0RNELIUS">
- - 📈 My Github stats:
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=K0RNELIUS&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K0RNELIUS&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
