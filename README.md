@@ -6,14 +6,17 @@
 
 ##
 
-- 📈 My Github stats:
+📈 My Github stats:
+
 <div>
   <a href="https://github.com/K0RNELIUS">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=K0RNELIUS&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K0RNELIUS&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
   
-  ##
+ ##
+  
+Check out my social media:
   
 <div height="40em">
   <a href="https://www.instagram.com/leandrobkornelius/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
