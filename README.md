@@ -18,7 +18,7 @@
   
  ##
   
-Check out my other social medias:
+- Check out my other social medias:
   
 <div height="40em">
   <a href="https://www.instagram.com/leandrobkornelius/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
