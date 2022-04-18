@@ -1,9 +1,9 @@
 ## Hello world, I am Leandro Kornelius 👋
 
 - ✉ Contact me through: leobelko@gmail.com;
-- 👀 I am interested in becoming a full-stack engineer;
-- 👨‍💻 Undergraduate student in computer science;
-- 📚 Currently learning html in codecademy;
+- 👀 I am interested in becoming a Full-Stack Engineer;
+- 👨‍💻 Undergraduate student in Computer Science;
+- 📚 Currently learning css in Codecademy;
 
 
 ##
