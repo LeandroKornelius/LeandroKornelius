@@ -2,7 +2,7 @@
 
 - 📚 Undergraduate student in Computer Science;
 - 📈 Dedicated in becoming a Full-Stack Engineer;
-- ❤ In my free time, I enjoy gaming, driving, and watching F1;
+- ❤ In my free time I enjoy gaming, driving, and watching F1;
 
 <div>
   <a href="https://github.com/K0RNELIUS">
