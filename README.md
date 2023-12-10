@@ -14,8 +14,6 @@
   </h3>
 </div>
 
-<br>
-
 <div align="center">
   <div id="badges">
   <a href="https://www.linkedin.com/in/leandrokornelius/">
