@@ -1,7 +1,7 @@
 <div align="center">
-  <h3>
+  <h2>
     Hello there 👋! I'm Leandro Kornelius, a passionate Computer Science Student at the University of Brasilia (UnB) and Full-Stack Engineer.
-  </h3>
+  </h2>
   <br>
   <p>
     Driven by innovation and collaboration 🤝, I thrive on challenges that allow me to explore and learn new technologies. My journey in computer science is not just about coding; it's a continuous pursuit of creative solutions and knowledge.
