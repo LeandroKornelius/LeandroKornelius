@@ -19,7 +19,7 @@
   <a href="https://www.linkedin.com/in/leandrokornelius/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://github.com/K0RNELIUS">
+  <a href="https://github.com/LeoKornelius">
     <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
   </a>
   <a href="https://www.youtube.com/channel/UC6JOIGjJJD6RdiDviSiniBw/featured" target="_blank">
