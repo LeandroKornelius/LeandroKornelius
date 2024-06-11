@@ -19,7 +19,7 @@
   <a href="https://www.linkedin.com/in/leandrokornelius/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://github.com/LeoKornelius">
+  <a href="https://github.com/LeandroKornelius">
     <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
   </a>
   <a href="https://www.youtube.com/channel/UC6JOIGjJJD6RdiDviSiniBw/featured" target="_blank">
@@ -52,7 +52,7 @@
 
 <div>
   <a href="https://github.com/LeoKornelius">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeoKornelius&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoKornelius&layout=compact&langs_count=7&theme=codeSTACKr"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeandroKornelius&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroKornelius&layout=compact&langs_count=7&theme=codeSTACKr"/>
 </div>
 
